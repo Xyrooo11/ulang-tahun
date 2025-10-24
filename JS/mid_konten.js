@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
       song.pause();
       song.currentTime = 1;
     }
-  }, 50000);
+  }, 150000);
 
   // Efek fade saat scroll
   $(window).on("load", function () {
